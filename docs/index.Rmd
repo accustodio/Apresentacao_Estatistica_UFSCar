@@ -187,11 +187,11 @@ class:
 
 --
 
-- Mais de 25 milhoes de clientes
+- Mais de 25 milhões de clientes
 
 --
 
-- Mais de 3 milhoes de acordos realizados
+- Mais de 3 milhões de acordos realizados
 
 
 --
@@ -293,7 +293,7 @@ class:
 
 #Comunidades 
 
-São excelentes oportunidade para ter contato com pessoas e tecnologia! 
+São excelentes oportunidades para ter contato com pessoas e tecnologia! 
 
 **pessoas > tecnologia**
 
@@ -344,10 +344,10 @@ class:
 
 ##R-Ladies
 
-- R-Ladies é uma organização mundial que **promove a diversidade de gênero** na comunidade da linguagem R.A missão do R-Ladies é alcançar uma representação proporcional ao encorajar, inspirar e capacitar pessoas de gêneros atualmente sub-representados na comunidade R.
+- R-Ladies é uma organização mundial que **promove a diversidade de gênero** na comunidade da linguagem R. A missão da R-Ladies é alcançar uma representação proporcional ao encorajar, inspirar e capacitar pessoas de gêneros atualmente sub-representados na comunidade R.
 
 
-```{r, out.width="90%"}
+```{r, out.width="80%"}
 knitr::include_graphics("img/rladies.jpeg")
 ```
 
@@ -355,6 +355,7 @@ knitr::include_graphics("img/rladies.jpeg")
 
 - Saiba mais:
   - Website RLadies Global: [https://rladies.org/](https://rladies.org/)
+  - Capitulos da R-Ladies no Brasil: [https://github.com/R-Ladies-Sao-Paulo/RLadies-Brasil](https://github.com/R-Ladies-Sao-Paulo/RLadies-Brasil#readme)
   - Twitter: [@RLadiesSaoPaulo](https://twitter.com/RLadiesSaoPaulo)
   - Instagram: [@RLadiesSaoPaulo](http://instagram.com/RLadiesSaoPaulo)
   - Facebook: [@RLadiesSaoPaulo](http://facebook.com/RLadiesSaoPaulo)
@@ -378,7 +379,7 @@ class: middle
 
 - **Markdown e Xaringan**:
   - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
-  - [Introdução ao pacote xaringan - Criando apresentações com R - Beatriz Milz e Mariana Dias Guilardi](https://beatrizmilz.github.io/aMostra-IME-2019-Xaringan)
+  - [Comunicando seus resultados em R - Aprenda a criar apresentações reprodutíveis](https://r-ladies-sao-paulo.github.io/xaringan/)
   - [Apresentação da documentação Xaringan](http://slides.yihui.name/xaringan/) 
 
  
