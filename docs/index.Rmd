@@ -117,7 +117,7 @@ class:
 ##Ciclo da Ciência de Dados
 
 
-```{r, out.width="70%", fig.cap="Imagem do Livro ['Ciência de Dados em R'](https://livro.curso-r.com/) da Curso-R."}
+```{r, out.width="70%", fig.cap="Imagem do Livro 'Ciência de Dados em R' da Curso-R."}
 knitr::include_graphics("https://livro.curso-r.com/assets/img/manipulacao/ciclo-ciencia-de-dados.png")
 ```
 
