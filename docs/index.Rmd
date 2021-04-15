@@ -43,16 +43,16 @@ knitr::opts_chunk$set(
 
 - Professora Auxiliar no programa de [Pós Graduação em Data Science e Decisão](https://www.insper.edu.br/pos-graduacao/programas-avancados/programa-avancado-em-data-science-e-decisao/) - [Insper](https://www.insper.edu.br/) 
 
-- Co-organizadora da [PyLadies São Paulo](https://www.sympla.com.br/produtor/PyLadiesSP)`r emo::ji("red_heart")`
+- [PyLadies São Paulo](https://www.sympla.com.br/produtor/PyLadiesSP)`r emo::ji("red_heart")`
   - [Grupo de Estudos em Data Science (GEDS)](https://pyladiessp.github.io/data-science/)
 
-- Membro da Comunidade [R-Ladies São Paulo](https://www.meetup.com/pt-BR/R-Ladies-Sao-Paulo) `r emo::ji("purple_heart")`
+- [R-Ladies São Paulo](https://www.meetup.com/pt-BR/R-Ladies-Sao-Paulo) `r emo::ji("purple_heart")`
 
 
 ---
 class: middle
 
-#Quem é o profissional Cientista de Dados?
+#Cientistas de Dados? Quem são?
 
 ```{r, out.width="50%"}
 knitr::include_graphics("img/queme.jpg")
@@ -117,7 +117,7 @@ class:
 ##Ciclo da Ciência de Dados
 
 
-```{r, out.width="70%", fig.cap="Imagem do Livro 'Ciência de Dados em R' da Curso-R."}
+```{r, out.width="70%", fig.cap="Imagem do Livro ['Ciência de Dados em R'](https://livro.curso-r.com/) da Curso-R."}
 knitr::include_graphics("https://livro.curso-r.com/assets/img/manipulacao/ciclo-ciencia-de-dados.png")
 ```
 
@@ -255,7 +255,7 @@ knitr::include_graphics("img/rec2.png")
 ---
 class: 
 
-#O profissional de ciência de dados precisa dominar muitos assuntos?
+#Cientista de dados precisa dominar muitos assuntos?
 
 --
 
@@ -295,7 +295,7 @@ class:
 
 São excelentes oportunidades para ter contato com pessoas e tecnologia! 
 
-**pessoas > tecnologia**
+**pessoas >> tecnologia**
 
 --
 
@@ -397,7 +397,11 @@ knitr::include_graphics("https://attachments.f95zone.to/2021/01/1001428_thanks.g
 ```
 
 
-####Professor Pedro Ferreira Filho - Pelo convite, incentivo e apoio sempre!
+- Professor Pedro Ferreira Filho, pelo convite, incentivo e apoio sempre!
+
+- Ao [Grupo Recovery](https://www.linkedin.com/company/gruporecovery), por poder dividir sobre o mundo de Recuperação com vocês.
+
+- [Beatriz Milz](https://beatrizmilz.com/) pelo apoio e ajuda com o xaringan.
 
 
 Apresentação feita com [ `xaringan` ](https://github.com/yihui/xaringan).
