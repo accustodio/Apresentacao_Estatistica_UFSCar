@@ -387,8 +387,6 @@ class: middle
 ---
 class: middle  
 
-# Agradecimentos
-
 
 ###Obrigada pela atenção de vocês!
 
@@ -396,12 +394,13 @@ class: middle
 knitr::include_graphics("https://attachments.f95zone.to/2021/01/1001428_thanks.gif")
 ```
 
+###Agradeço também
 
-- Professor Pedro Ferreira Filho, pelo convite, incentivo e apoio sempre!
+- Ao Professor Pedro Ferreira Filho pelo convite.
 
 - Ao [Grupo Recovery](https://www.linkedin.com/company/gruporecovery), por poder dividir sobre o mundo de Recuperação com vocês.
 
-- [Beatriz Milz](https://beatrizmilz.com/) pelo apoio e ajuda com o xaringan.
+- [Beatriz Milz](https://beatrizmilz.com/) e [William Amorim](https://wamorim.com/) pelo apoio e incentivo.
 
 
 Apresentação feita com [ `xaringan` ](https://github.com/yihui/xaringan).
